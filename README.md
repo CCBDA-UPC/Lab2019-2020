@@ -1,2 +1,7 @@
 # Lab2019-2020
-Template for students to create their responses repository
+
+Jorrit Palfner
+palfner.jorrit@est.fib.edu
+Lab1 Partner:
+Mahmudul Hasan Bhuiyan         
+mahmudul.hasan.bhuiyan@est.fib.upc.edu
